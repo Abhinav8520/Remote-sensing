@@ -1,4 +1,4 @@
-# Image Captioning with CNN-RNN Architecture
+# Remote Sensing Image Captioning with Encoder-Decoder Architecture
 
 ## Project Overview
 
